@@ -1,0 +1,13 @@
+name = "gram_server"
+author = "andrew"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0efb44bf9599ebacec332d85f54f169f864a14575c1ded1832a52b92c6ea5b29"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"
