@@ -125,6 +125,16 @@ file = "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar"
 hash = "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
 
 [[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
 file = "mods/create_connected-1.3.2-mc1.21.1.jar"
 hash = "90bdceac63cb0ebd5e51351e22136182b996512edef937d0635d2857b0a3f24b"
 
