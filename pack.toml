@@ -1,12 +1,12 @@
 name = "gram_server"
 author = "andrew"
-version = "1.0.0"
+version = "1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0efb44bf9599ebacec332d85f54f169f864a14575c1ded1832a52b92c6ea5b29"
+hash = "695749bfce761d5b830a42195d8cfc896caf89be282c0c904bf7efcf248b9091"
 
 [versions]
 minecraft = "1.21.1"
