@@ -53,8 +53,18 @@ file = "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar"
 hash = "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
+metafile = true
+
+[[files]]
 file = "mods/almostunified.pw.toml"
 hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "bd25db756e368a27d83240e4345e4cc26d0237943ef0ca56603db1de4e0818f3"
 metafile = true
 
 [[files]]
@@ -77,6 +87,11 @@ hash = "01ba36720d39485b7726fa140e32db21943b5d3bde3a8e764ad30ff93cbf3630"
 [[files]]
 file = "mods/athena-neoforge-1.21.1-4.0.6.jar"
 hash = "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5"
+
+[[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "f10e1dfe7b0df6c00ce1ddad9d6fcf1d1654a022d71f40389d8e553f6970c27b"
+metafile = true
 
 [[files]]
 file = "mods/azurelibarmor-neo-1.21.1-3.1.3.jar"
@@ -127,12 +142,23 @@ file = "mods/continuity-3.0.0+1.21.neoforge.jar"
 hash = "4cc0a4a09ae09c64bb567e42381652b700f9cade5067a75e83115662cc475f0a"
 
 [[files]]
-file = "mods/create-1.21.1-6.0.10.jar"
-hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
-
-[[files]]
 file = "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar"
 hash = "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
+
+[[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "b3b2c990023501cc95e4061ef73e541bcd6e54db6e392a8694147b6da75eee71"
+metafile = true
+
+[[files]]
+file = "mods/create-automotives.pw.toml"
+hash = "fad624676a303c37cb8b37a83b8ecb728a2084c6b7654ae320376c6669a02f01"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "1b3eed35a78b2a695da9e5d61c38e8bc5406e12b12d7da8aaa6d9fd7a0ce7f48"
+metafile = true
 
 [[files]]
 file = "mods/create-deep-seas.pw.toml"
@@ -207,6 +233,11 @@ file = "mods/dynamicelectricity-1.21.1-1.2.1-0.jar"
 hash = "4092edc13f033f89b1b34d3034a7cf186cb7711e9afa48410f6fa0a77d69ebc2"
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
+metafile = true
+
+[[files]]
 file = "mods/electrodynamics-1.21.1-1.0.12.jar"
 hash = "8fce1a792a038a78a7f82ec10fa56828a7f9220c18e939b7508a55535d47079a"
 
@@ -243,8 +274,28 @@ file = "mods/gravestone-neoforge-1.21.1-1.0.38.jar"
 hash = "9aeec340571f55147bab02bdea252e25a2e6d7b27b282d12817c34090a35f945"
 
 [[files]]
+file = "mods/guideme.pw.toml"
+hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles.pw.toml"
+hash = "e54cb242884e03c1b2e5971fe010adedbf2e1ae5dc161cf428d82301c6b4b38f"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "8c1835e4c54b3a3f5d79bcf0e3b0f25cc3113fe43c1190104a76ed5d8d839a3b"
+metafile = true
+
+[[files]]
 file = "mods/jei-1.21.1-neoforge-19.44.0.401.jar"
 hash = "8491f902a3ff8a4170a2c4f64efbc0186b6665825f20daab4789cb5102c1ac9b"
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "1b7de11aec3659d7240c71a5181627d34cc270c264d9ce58a944fc9dd28a85cf"
+metafile = true
 
 [[files]]
 file = "mods/jewelry-neoforge-2.3.3+1.21.1.jar"
@@ -265,6 +316,26 @@ hash = "98f061ba69d31764fa10ab7810ca49062633e107a6b261ba3b66dc25ba5fef7b"
 [[files]]
 file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
 hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "086e5173f9d4dd76196a67e6604b5787b5f17312a6c3db49b1651fe2d972fe16"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "efafea92ef966ffe7c3c31209b643a9bbcccb3a8a5a02347b49ff50e015980fe"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
+metafile = true
 
 [[files]]
 file = "mods/modonomicon-1.21.1-neoforge-1.120.4.jar"
@@ -361,6 +432,16 @@ hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "0a6569216d10ece81da8983e61e29245fdedd54568ec7b651f0373dd5f3970e8"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "994e4c01094118ccc8f1c860bc1b2e94108b0a107fb93ed81e52700f670f8768"
+metafile = true
+
+[[files]]
 file = "mods/spell_engine-neoforge-1.9.16+1.21.1.jar"
 hash = "9d478c45e27fbf5dad6e95012945886dd953f211b3cdb6a5d7656f101c529e2c"
 
@@ -373,12 +454,27 @@ file = "mods/stickywheels-1.21.1-0.0.3.jar"
 hash = "83f9b5fe1283920f98a6a7791e4ab6e101ebeba17e366aac035346e63e4a975d"
 
 [[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
+metafile = true
+
+[[files]]
 file = "mods/structure_pool_api-neoforge-1.2.1+1.21.1.jar"
 hash = "c18460025b07bc05fdc95bf62621c6b56f45e4eeb1c319f12787f39eb9315ea9"
 
 [[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "d9cd1c203e2aa78965d456ded1527099583d1c233bfc88fb0c8005e0967b06de"
+metafile = true
+
+[[files]]
 file = "mods/tfmg-1.2.0.jar"
 hash = "fc824a91cfe22e137c9014ed608ee9bf35f16490d2162b687666332c6eb3a555"
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "5b6a8b957c193e3433593c71b2e397698c5216cce763ee973e60b1f48d79a052"
+metafile = true
 
 [[files]]
 file = "mods/veinminer-neoforge-2.11.2+1.21.1.jar"
