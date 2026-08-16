@@ -62,6 +62,11 @@ file = "mods/archers-neoforge-3.0.3+1.21.1.jar"
 hash = "9bb3bcd7e8a633f555f35952b1fdd692cf0ba41c8dcd0103b73b319e3d62a1a5"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+metafile = true
+
+[[files]]
 file = "mods/arsenal-neoforge-1.4.3+1.21.1.jar"
 hash = "4bb8b24627fc8511915199c2b3c84bca640f93448cad348c01b6bdb6b6f0994b"
 
@@ -128,6 +133,16 @@ hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
 [[files]]
 file = "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar"
 hash = "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
+
+[[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "39499039e11a6e0f50542d80af94c172342fdb686f3a59d5ee4457d978a54e75"
+metafile = true
 
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
@@ -294,6 +309,11 @@ hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
 [[files]]
 file = "mods/polymorph-neoforge-1.1.0+1.21.1.jar"
 hash = "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "0a8751beba30f064c60e2baa923aa677ff2e885f065cff915a9e771190c47053"
+metafile = true
 
 [[files]]
 file = "mods/propulsed-0.1.1.jar"
