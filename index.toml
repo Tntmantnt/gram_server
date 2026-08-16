@@ -156,11 +156,6 @@ hash = "fad624676a303c37cb8b37a83b8ecb728a2084c6b7654ae320376c6669a02f01"
 metafile = true
 
 [[files]]
-file = "mods/create-bits-n-bobs.pw.toml"
-hash = "1b3eed35a78b2a695da9e5d61c38e8bc5406e12b12d7da8aaa6d9fd7a0ce7f48"
-metafile = true
-
-[[files]]
 file = "mods/create-deep-seas.pw.toml"
 hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
 metafile = true
