@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "applied-kinetic-recipe-fix.pw.toml"
-hash = "0a3bbadb55f80969c060512aa503c4fa5318f5b7bc7a036b923c86cfe0aab6de"
-metafile = true
-
-[[files]]
 file = "mods/All-in-One-VeinMiner-TreeFelle-1.1.7.jar"
 hash = "bbf918cec07d70a5549ece3fa15e284b17ea84df010d43e9cb1f26d987e2273e"
 
@@ -56,16 +51,6 @@ hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 [[files]]
 file = "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar"
 hash = "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
-
-[[files]]
-file = "mods/ae2-jei-integration.pw.toml"
-hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
-metafile = true
-
-[[files]]
-file = "mods/ae2.pw.toml"
-hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
-metafile = true
 
 [[files]]
 file = "mods/almostunified.pw.toml"
@@ -154,11 +139,6 @@ hash = "4cc0a4a09ae09c64bb567e42381652b700f9cade5067a75e83115662cc475f0a"
 [[files]]
 file = "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar"
 hash = "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
-
-[[files]]
-file = "mods/create-applied-kinetics.pw.toml"
-hash = "b3b2c990023501cc95e4061ef73e541bcd6e54db6e392a8694147b6da75eee71"
-metafile = true
 
 [[files]]
 file = "mods/create-automotives.pw.toml"
@@ -256,6 +236,11 @@ file = "mods/emi-1.1.24+1.21.1+neoforge.jar"
 hash = "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
 
 [[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "f2cbcb3d01017133313e1594cb89f052923592b7fa0c78eb9b6d09fb6e03bfb5"
+metafile = true
+
+[[files]]
 file = "mods/emixx-2.1.0.jar"
 hash = "e65c1f4c75b8f998532d3b6c34aa172b24fb78cfeeef82582c847fa4d9b9ce8d"
 
@@ -328,6 +313,11 @@ file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
 hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "28f46d68adde7667d778e2d6a31c4fe3834d1d7a93ec5059937da3f667956ebe"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "086e5173f9d4dd76196a67e6604b5787b5f17312a6c3db49b1651fe2d972fe16"
 metafile = true
@@ -376,6 +366,16 @@ file = "mods/occultism-1.21.1-neoforge-1.224.2.jar"
 hash = "0f73d75ce41fa0e4feef8f5ec06ee59e2a5738481b1100120bdcf0065e56f823"
 
 [[files]]
+file = "mods/oracle-index.pw.toml"
+hash = "234b7e09017f25d55ea0af57730bb4e94be72b8ce28e46a0b06dba79e954bc5d"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "62aaadc77869b15ca9cce5e15829492809652cd3005e02134664939b2566c95e"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
 hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
 
@@ -415,6 +415,11 @@ hash = "3afe1ffedf16fd9fbe74d2c7fb154d1761e4619bf044bea87ce999135a1e8a96"
 [[files]]
 file = "mods/resourcefullib-neoforge-1.21-3.0.12.jar"
 hash = "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "3cb4f127b8742215ad6d36ae965d851657d36a27cb8e9b74535e1b2aa0bd0586"
+metafile = true
 
 [[files]]
 file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
@@ -501,6 +506,11 @@ hash = "83b4f4b739b6994556e77abe0e4832ac79762ec8762ab2e178ca459bb79e09ae"
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar"
 hash = "b722bcf794288f0ed51165cd1f057fc4505e20abbc723b2e17e900426e443603"
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "56b993081b7c9faeb55b2acfc43ab7c244387caf186d92312b3b25c755fd5463"
+metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
