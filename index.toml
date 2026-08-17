@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "applied-kinetic-recipe-fix.pw.toml"
+hash = "0a3bbadb55f80969c060512aa503c4fa5318f5b7bc7a036b923c86cfe0aab6de"
+metafile = true
+
+[[files]]
 file = "mods/All-in-One-VeinMiner-TreeFelle-1.1.7.jar"
 hash = "bbf918cec07d70a5549ece3fa15e284b17ea84df010d43e9cb1f26d987e2273e"
 
@@ -51,6 +56,11 @@ hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 [[files]]
 file = "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar"
 hash = "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
+
+[[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
+metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"

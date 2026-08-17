@@ -1,0 +1,13 @@
+name = "Applied Kinetic recipe fix"
+filename = "ae2-applied-kinetic.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41ff3b867f8b296993c1031c791232700fc19a06"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6896613
+project-id = 1329146
