@@ -58,11 +58,6 @@ hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
 metafile = true
 
 [[files]]
-file = "mods/applied-mekanistics.pw.toml"
-hash = "bd25db756e368a27d83240e4345e4cc26d0237943ef0ca56603db1de4e0818f3"
-metafile = true
-
-[[files]]
 file = "mods/archers-neoforge-3.0.3+1.21.1.jar"
 hash = "9bb3bcd7e8a633f555f35952b1fdd692cf0ba41c8dcd0103b73b319e3d62a1a5"
 
