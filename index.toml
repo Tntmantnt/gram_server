@@ -21,10 +21,6 @@ file = "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
 hash = "59d2a3fb3d6877e43018fd6a2b199d526074a864276a5f49091409a1cdc62fae"
 
 [[files]]
-file = "mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar"
-hash = "05f1b8660f74f543fba61d4ce7cf8632d4c69a95b7c15b1a6fd442be2e397ca6"
-
-[[files]]
 file = "mods/KotlinLangForge-2.12.2-k2.4.10-3.0+neoforge.jar"
 hash = "fba0188f1998a894f49f43fd718910dea97aa11c3a4b9553f5d0ba0767354d93"
 
@@ -308,6 +304,11 @@ file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
 hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
 
 [[files]]
+file = "mods/mcef.pw.toml"
+hash = "92b4b8c5d262a7a56d88fe054872ea250dc55680a6bf040c3f97c6e597fbfae1"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "28f46d68adde7667d778e2d6a31c4fe3834d1d7a93ec5059937da3f667956ebe"
 metafile = true
@@ -398,6 +399,21 @@ hash = "486b47aaa3bfaaddfeb56009493ba66208ec791a9d3f8a6fa571127a638a8556"
 [[files]]
 file = "mods/ranged_weapon_api-neoforge-2.3.3+1.21.1.jar"
 hash = "49f439f6b771aeecebeeacc1e920761ba75a8da6ce71026e18412af06ec66405"
+
+[[files]]
+file = "mods/refined-storage-emi-integration.pw.toml"
+hash = "4a5af515250fbde913593346d51b2c4ac8f660e71ba21f65f49a02209bb65509"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-jei-integration.pw.toml"
+hash = "fd3e3dd73614b09899f5a445f989fd4f43c36a67e6a4c986f1263edbc5239944"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "aaf0d7287d0b48ed96307ffa1fd8bbe7a3d6bfc837be1e6ba42c09063b988e69"
+metafile = true
 
 [[files]]
 file = "mods/relics-neoforge-1.3.0+1.21.1.jar"
@@ -493,6 +509,11 @@ hash = "09d79021cab02c29b5b65cacc06ea5ae08dad11c10d42cd2fd5821ba651ade38"
 [[files]]
 file = "mods/waystones-neoforge-1.21.1-21.1.40.jar"
 hash = "3d5d0e9fc2715da8eab9fee5ba56e6b900e1f2e9c68586ed19762cb3a01b1781"
+
+[[files]]
+file = "mods/webdisplays-remaster.pw.toml"
+hash = "285c60f3bd420cc176ba890c212f26c7d1560ab78b3de8c891fe4f728b359005"
+metafile = true
 
 [[files]]
 file = "mods/wizards-neoforge-3.0.4+1.21.1.jar"
