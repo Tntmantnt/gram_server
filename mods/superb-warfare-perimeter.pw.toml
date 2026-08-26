@@ -1,0 +1,13 @@
+name = "Superb Warfare: Perimeter"
+filename = "sbw-Perimeter-ops-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sDCjHVv3/versions/tiSoJRiW/sbw-Perimeter-ops-1.6.0.jar"
+hash-format = "sha512"
+hash = "ca7f594b152bc856cc3916da37913ed1e57bab161280e1dd2914f399fe115f650e9405d8b9c0162ebdf9b23d497aed0c69e2ec703afcbe3649ccfec64626964f"
+
+[update]
+[update.modrinth]
+mod-id = "sDCjHVv3"
+version = "tiSoJRiW"

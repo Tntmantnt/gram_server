@@ -1,0 +1,13 @@
+name = "[SBW] Drone Warfare"
+filename = "SBW-Drone-Warfare-1.21.1-NeoForge-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WG6tgfJf/versions/zAOOC1XM/SBW-Drone-Warfare-1.21.1-NeoForge-1.0.4.jar"
+hash-format = "sha512"
+hash = "f15c63376ccb5d11e0fff5da3e1ab4566c437ecaa97ce418d21ba2eefbda5b1db190fd3a5afb85fa802f6f9c3748e08a13e8549e20b9d00624fd4f8415f4b22c"
+
+[update]
+[update.modrinth]
+mod-id = "WG6tgfJf"
+version = "zAOOC1XM"

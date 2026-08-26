@@ -210,6 +210,16 @@ file = "mods/deeperdarker-neoforge-1.21.1-1.4.1.jar"
 hash = "eee3f51222b0bcc714def002ff089ac9e131d3cae4575b542fd0a7dd101fe0af"
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "bbc15c019fd260bbb9058b14a8e03232a55df77608d9aca466d051007d62abd2"
+metafile = true
+
+[[files]]
 file = "mods/dynamicelectricity-1.21.1-1.2.1-0.jar"
 hash = "4092edc13f033f89b1b34d3034a7cf186cb7711e9afa48410f6fa0a77d69ebc2"
 
@@ -449,6 +459,16 @@ file = "mods/sable-neoforge-1.21.1-2.0.3.jar"
 hash = "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
 
 [[files]]
+file = "mods/sbw-aeronautics-compat.pw.toml"
+hash = "cfab7eec2a7cebc9bfcd58385ffe3cd9e5c4f13936a123c71dc4d4f3ad0a647f"
+metafile = true
+
+[[files]]
+file = "mods/sbw-tactical-drone.pw.toml"
+hash = "baf071d85a8f8e6b654a6bbdb0fc273651807a0815b0ff7fc9a9e00be40bbe6c"
+metafile = true
+
+[[files]]
 file = "mods/shield_api-neoforge-2.2.0.jar"
 hash = "adbd8facfcaf318956d670ff3f0341c0d8e15e136ae9c00749a255e25a9c0194"
 
@@ -491,6 +511,16 @@ hash = "c18460025b07bc05fdc95bf62621c6b56f45e4eeb1c319f12787f39eb9315ea9"
 [[files]]
 file = "mods/strut-your-stuff.pw.toml"
 hash = "d9cd1c203e2aa78965d456ded1527099583d1c233bfc88fb0c8005e0967b06de"
+metafile = true
+
+[[files]]
+file = "mods/superb-warfare-perimeter.pw.toml"
+hash = "b9554a88e6a3fb6652ae6c674d0d289bd86cf8f66bcfe02db42d9e5548f65508"
+metafile = true
+
+[[files]]
+file = "mods/superb-warfare.pw.toml"
+hash = "cf1fd529c5eb08da3135bae8a16fcac1823826abb5b4172a4d0f72c82cb5d9a2"
 metafile = true
 
 [[files]]
