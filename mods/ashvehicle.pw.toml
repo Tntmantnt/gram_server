@@ -1,0 +1,13 @@
+name = "AshVehicle"
+filename = "ashvehicle-1.21.1-4.6-8.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j7CRHkQ6/versions/SIPuXN84/ashvehicle-1.21.1-4.6-8.9.jar"
+hash-format = "sha512"
+hash = "86538821ff8c6da5bb4827adf740d89cdeed261ed98ace5e5d2177c6b1b4fd4859b2c4134a7a0ba9686040376255d60cdced812db1e611a3e65a1f15af731657"
+
+[update]
+[update.modrinth]
+mod-id = "j7CRHkQ6"
+version = "SIPuXN84"

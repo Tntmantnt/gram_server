@@ -67,6 +67,11 @@ file = "mods/arsenal-neoforge-1.4.3+1.21.1.jar"
 hash = "4bb8b24627fc8511915199c2b3c84bca640f93448cad348c01b6bdb6b6f0994b"
 
 [[files]]
+file = "mods/ashvehicle.pw.toml"
+hash = "dbfb4898990716fd6275dd8fd805afcffb1e15b47688c61436b4f4c2e99e9517"
+metafile = true
+
+[[files]]
 file = "mods/assemblyline-1.21.1-0.8.2.jar"
 hash = "01ba36720d39485b7726fa140e32db21943b5d3bde3a8e764ad30ff93cbf3630"
 
@@ -237,6 +242,11 @@ file = "mods/emi-1.1.24+1.21.1+neoforge.jar"
 hash = "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
+metafile = true
+
+[[files]]
 file = "mods/emi-ores.pw.toml"
 hash = "f2cbcb3d01017133313e1594cb89f052923592b7fa0c78eb9b6d09fb6e03bfb5"
 metafile = true
@@ -248,6 +258,11 @@ hash = "e65c1f4c75b8f998532d3b6c34aa172b24fb78cfeeef82582c847fa4d9b9ce8d"
 [[files]]
 file = "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
 hash = "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
+
+[[files]]
+file = "mods/evolved-mekanism.pw.toml"
+hash = "7473e2d1255dcc6a300ca58e821a87f255f16a032ffa868338297759a2cb961c"
+metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar"
@@ -262,6 +277,11 @@ file = "mods/forgified-fabric-api-0.116.15+2.3.1+1.21.1.jar"
 hash = "b152376a89cf790ca7966df220f3fa85fb8ecb603225a6a9bdb6684c94944f1e"
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
 file = "mods/geckolib-neoforge-1.21.1-4.9.2.jar"
 hash = "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba"
 
@@ -272,6 +292,11 @@ hash = "9aeec340571f55147bab02bdea252e25a2e6d7b27b282d12817c34090a35f945"
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
+metafile = true
+
+[[files]]
+file = "mods/iglee-library.pw.toml"
+hash = "2148b44cf26025607d1a73a03e5e4a0b3a7f05b1c7442736eccc1ed64de985cd"
 metafile = true
 
 [[files]]
@@ -314,6 +339,11 @@ file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
 hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "b44ca90546d8fbf059a68aa34ed1106825fb99b8e1570d1edc16bec38af8a0e8"
+metafile = true
+
+[[files]]
 file = "mods/mcef.pw.toml"
 hash = "51a23a06273bc7bb4e595f275f1d6a36e5e9bd23ec62e16f821cd1fd66bef2fc"
 metafile = true
@@ -334,13 +364,33 @@ hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-lasers.pw.toml"
+hash = "572ed997330e5ef3bba1b8e951d29347c553eb976ffb0325c05ce13aeb40c8d6"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-tools.pw.toml"
 hash = "efafea92ef966ffe7c3c31209b643a9bbcccb3a8a5a02347b49ff50e015980fe"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-unleashed.pw.toml"
+hash = "3b581d5b1f00597a27c366f82cfe9a3f3e311c233e7e03a54403de752c4fb3c7"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
+metafile = true
+
+[[files]]
+file = "mods/mekanism_extra.pw.toml"
+hash = "adff0484ffea891ba8da3b92d2ec5c0a4bd53f9f83a903e54299e9718b81cf64"
+metafile = true
+
+[[files]]
+file = "mods/mekanismmoremachine.pw.toml"
+hash = "2998025f99be79a3b4813b687c83e7c4964cbc1a424c4a35dd20e08a7a594b51"
 metafile = true
 
 [[files]]
@@ -358,6 +408,11 @@ hash = "d4e1837730370fa3fd5153ab152c7a6862615f1159ce3b7331bc25e4db8a78b4"
 [[files]]
 file = "mods/moonlight-1.21.1-3.3.3-neoforge.jar"
 hash = "c3c1222e087d5dd58075d87b3036194700de56bbc4b3415aa76174e048381340"
+
+[[files]]
+file = "mods/more-mekanism-processing.pw.toml"
+hash = "c4c833c881e3a9b0de7333be6de247ccb78175f66640d69ac722dd402a95e782"
+metafile = true
 
 [[files]]
 file = "mods/moreculling-neoforge-1.21.1-1.0.9.jar"
@@ -480,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "994e4c01094118ccc8f1c860bc1b2e94108b0a107fb93ed81e52700f670f8768"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
