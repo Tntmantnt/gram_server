@@ -310,6 +310,11 @@ hash = "8c1835e4c54b3a3f5d79bcf0e3b0f25cc3113fe43c1190104a76ed5d8d839a3b"
 metafile = true
 
 [[files]]
+file = "mods/infinitelava4neoforge.pw.toml"
+hash = "479cc91bc62e8b87fd3f9515fefc801591833fb64538619b776327a1cc2eaad7"
+metafile = true
+
+[[files]]
 file = "mods/jei-1.21.1-neoforge-19.44.0.401.jar"
 hash = "8491f902a3ff8a4170a2c4f64efbc0186b6665825f20daab4789cb5102c1ac9b"
 
