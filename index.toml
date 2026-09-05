@@ -471,8 +471,8 @@ file = "mods/ranged_weapon_api-neoforge-2.3.3+1.21.1.jar"
 hash = "49f439f6b771aeecebeeacc1e920761ba75a8da6ce71026e18412af06ec66405"
 
 [[files]]
-file = "mods/refined-storage-jei-integration.pw.toml"
-hash = "fd3e3dd73614b09899f5a445f989fd4f43c36a67e6a4c986f1263edbc5239944"
+file = "mods/refined-storage-emi-integration.pw.toml"
+hash = "4a5af515250fbde913593346d51b2c4ac8f660e71ba21f65f49a02209bb65509"
 metafile = true
 
 [[files]]
