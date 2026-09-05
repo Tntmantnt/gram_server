@@ -476,6 +476,11 @@ hash = "fd3e3dd73614b09899f5a445f989fd4f43c36a67e6a4c986f1263edbc5239944"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-mekanism-integration.pw.toml"
+hash = "8e9366d6e9801dba269d9e257b55dca5a30fde277baab160cc59b1841a11efd2"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "aaf0d7287d0b48ed96307ffa1fd8bbe7a3d6bfc837be1e6ba42c09063b988e69"
 metafile = true
