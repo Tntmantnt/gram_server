@@ -349,6 +349,11 @@ hash = "b44ca90546d8fbf059a68aa34ed1106825fb99b8e1570d1edc16bec38af8a0e8"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
 file = "mods/mcef.pw.toml"
 hash = "51a23a06273bc7bb4e595f275f1d6a36e5e9bd23ec62e16f821cd1fd66bef2fc"
 metafile = true
