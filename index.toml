@@ -529,6 +529,11 @@ hash = "baf071d85a8f8e6b654a6bbdb0fc273651807a0815b0ff7fc9a9e00be40bbe6c"
 metafile = true
 
 [[files]]
+file = "mods/sdm-shop.pw.toml"
+hash = "ae31f8e8109d4fe92cd11efc49bddd5f018cca458f649fd999d216563253b424"
+metafile = true
+
+[[files]]
 file = "mods/shield_api-neoforge-2.2.0.jar"
 hash = "adbd8facfcaf318956d670ff3f0341c0d8e15e136ae9c00749a255e25a9c0194"
 
