@@ -25,6 +25,10 @@ file = "mods/KotlinLangForge-2.12.2-k2.4.10-3.0+neoforge.jar"
 hash = "fba0188f1998a894f49f43fd718910dea97aa11c3a4b9553f5d0ba0767354d93"
 
 [[files]]
+file = "mods/LuckPerms-NeoForge-5.5.81.jar"
+hash = "91a8c6427574ba78dc164fe4fd3db53a2a037d0ed2fcbd5435dd793f93e07113"
+
+[[files]]
 file = "mods/MoogsSoaringStructures-1.21-2.1.2.jar"
 hash = "5392b23878488bf167669b9d9eb0ed3b129115155856ac28059e88d8ac9b0080"
 
@@ -346,11 +350,6 @@ hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "b44ca90546d8fbf059a68aa34ed1106825fb99b8e1570d1edc16bec38af8a0e8"
-metafile = true
-
-[[files]]
-file = "mods/luckperms.pw.toml"
-hash = "0b0b8ec73c689824125ed9c568deff51b0adca52aee27e49a114b04ff3f73abe"
 metafile = true
 
 [[files]]
