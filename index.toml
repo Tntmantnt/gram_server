@@ -76,11 +76,6 @@ file = "mods/assemblyline-1.21.1-0.8.2.jar"
 hash = "01ba36720d39485b7726fa140e32db21943b5d3bde3a8e764ad30ff93cbf3630"
 
 [[files]]
-file = "mods/async.pw.toml"
-hash = "176f5dc52a0d2338047c2a7fcbf3122be0d8cbcc28f83dbf64fe22d2cc676eda"
-metafile = true
-
-[[files]]
 file = "mods/athena-neoforge-1.21.1-4.0.6.jar"
 hash = "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5"
 
