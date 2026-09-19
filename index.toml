@@ -305,6 +305,11 @@ hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
 metafile = true
 
 [[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "84c5f4cd596d3e74c8044920140016c7467589080df966ff0dde9208e0ecdbb5"
+metafile = true
+
+[[files]]
 file = "mods/iglee-library.pw.toml"
 hash = "2148b44cf26025607d1a73a03e5e4a0b3a7f05b1c7442736eccc1ed64de985cd"
 metafile = true
@@ -458,6 +463,11 @@ hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
 [[files]]
 file = "mods/paladins-neoforge-3.0.5+1.21.1.jar"
 hash = "1593bcabf3ff3c14a336bc0a677bbeaa0d1a249eb231d478df43bb9c6bb277fd"
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "2f9f0f8c05ce7e410a70cfed595e623fe8031df89a8a9ba9a8aaaa419eb4d18b"
+metafile = true
 
 [[files]]
 file = "mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
