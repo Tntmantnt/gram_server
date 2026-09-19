@@ -234,6 +234,11 @@ hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "e2ee2481b63a012bdfb8c9f588788dd2f116ff48298014bb3e00d08a224fe14f"
+metafile = true
+
+[[files]]
 file = "mods/electrodynamics-1.21.1-1.0.12.jar"
 hash = "8fce1a792a038a78a7f82ec10fa56828a7f9220c18e939b7508a55535d47079a"
 
@@ -267,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar"
 hash = "588bc09f0f43e04ef0c18d8e884197ffd4a0e605470f455cf0b5f1508cb994ba"
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "3e2431756f4544ca4f040d2f85d53433167a63eb606dfbeb8575548cc0b09e10"
+metafile = true
 
 [[files]]
 file = "mods/ferritecore-7.0.3-neoforge.jar"
