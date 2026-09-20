@@ -424,11 +424,6 @@ hash = "b44ca90546d8fbf059a68aa34ed1106825fb99b8e1570d1edc16bec38af8a0e8"
 metafile = true
 
 [[files]]
-file = "mods/lodestonelib.pw.toml"
-hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
-metafile = true
-
-[[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "33ff6177b5e19c7ef130b6076ff6166a3994b511df06f3afcbc02af9212f29c8"
 metafile = true
@@ -521,11 +516,6 @@ hash = "0b7000dac4bd8218074ece026f515d8cb24fcfd19c0e9eeb882209ab82f17657"
 [[files]]
 file = "mods/neovitae.pw.toml"
 hash = "4f9169589f9d593bf9169a413a09c987eba6d40d4d7b4e7b90f96a8c4ec0f430"
-metafile = true
-
-[[files]]
-file = "mods/noxlights.pw.toml"
-hash = "0e0d2f8aa87f54c2fa8dfb89f333e01c50b431cd35806e5160d826f57224314f"
 metafile = true
 
 [[files]]
@@ -716,11 +706,6 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "5b6a8b957c193e3433593c71b2e397698c5216cce763ee973e60b1f48d79a052"
-metafile = true
-
-[[files]]
-file = "mods/veil.pw.toml"
-hash = "9a1040c22215ae5b9665704ae4d261912e3e88df1748f2b1e51dcb8e4924bf29"
 metafile = true
 
 [[files]]
