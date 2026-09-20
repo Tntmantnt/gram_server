@@ -1,0 +1,13 @@
+name = "EvilCraft"
+filename = "evilcraft-1.21.1-neoforge-1.2.96.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4cb66d5b43f445bddca2e54e9ed213820ca49107"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8858686
+project-id = 74610
