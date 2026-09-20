@@ -398,6 +398,11 @@ file = "mods/kotlinforforge-5.12.0-all.jar"
 hash = "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
 
 [[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights-4.8.10+1.21.1.jar"
 hash = "94e955443ce3817f798c74cbbbb4973e7b55c8b6dec12808b9378e74376b2eb9"
 
