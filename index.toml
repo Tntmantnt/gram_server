@@ -435,11 +435,6 @@ hash = "086e5173f9d4dd76196a67e6604b5787b5f17312a6c3db49b1651fe2d972fe16"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-covers.pw.toml"
-hash = "1cb48d65c752fa47bf5c4773c93b53b5bdda79ada16740cd73b453ba2c185b36"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
 metafile = true
