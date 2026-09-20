@@ -231,11 +231,6 @@ hash = "bcc4f9c29e07a322440f67af363cb789bae9360c1ebeaa9b9a754af701bef70e"
 metafile = true
 
 [[files]]
-file = "mods/custom-machinery-mekanism.pw.toml"
-hash = "60f4ae50fe3c8e9c083b735cc775f11f002aa144ea5c0d81fbc9f3fbe9e9c9bf"
-metafile = true
-
-[[files]]
 file = "mods/custom-machinery.pw.toml"
 hash = "ad125b690de4c2a46c00da22cd13755935b7dc6c108b5e55a9156899ee1fa3ec"
 metafile = true
