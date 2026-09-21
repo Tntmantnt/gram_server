@@ -140,6 +140,11 @@ hash = "dc42384932c78a1ee818af8d8535b51ebd836c6d1f13f3171d9bd83985565f04"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+metafile = true
+
+[[files]]
 file = "mods/connector-2.0.0-beta.16+1.21.1-full.jar"
 hash = "ed805a4df711ada58ed66ac2f1a30233eeb4e83c364bc4f16cd77f89a5bc5628"
 
@@ -220,6 +225,11 @@ hash = "d3a2e1a6e65de7e50ae9e279de399b6535da407abc8e6b4688a56f2e461aab99"
 [[files]]
 file = "mods/createpropulsion-1.1.5.jar"
 hash = "5525a3a0c8b1c476cbc467d021e9d1492b58c78de31ed269eb04f169d42db0a1"
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "55f8f5c6152e6c0ceb79d38ca741910665754d1ce0755234b09318923e586e43"
+metafile = true
 
 [[files]]
 file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
