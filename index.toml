@@ -417,6 +417,11 @@ file = "mods/lambdynamiclights-4.8.10+1.21.1.jar"
 hash = "94e955443ce3817f798c74cbbbb4973e7b55c8b6dec12808b9378e74376b2eb9"
 
 [[files]]
+file = "mods/let-me-join.pw.toml"
+hash = "8521e571b8043f2764b2fedfbc8d95111d7cd83d0dcc390191f778df0d02c9cd"
+metafile = true
+
+[[files]]
 file = "mods/libIPN-neoforge-1.21.1-6.6.3.jar"
 hash = "98f061ba69d31764fa10ab7810ca49062633e107a6b261ba3b66dc25ba5fef7b"
 
