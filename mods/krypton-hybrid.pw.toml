@@ -1,0 +1,13 @@
+name = "Krypton Hybrid"
+filename = "Krypton Hybrid-1.21.1-nepforge-0.2.33.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d714e45b0d15d837d36e4b8a1aa438dc0b30c5bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8101868
+project-id = 1474749
