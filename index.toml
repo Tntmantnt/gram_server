@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/krypton_hybrid-common.toml"
-hash = "af2f2ec0511460401728bbe3d0c5b5b729d3c576941e637e9f69730266c4d454"
-
-[[files]]
 file = "mods/All-in-One-VeinMiner-TreeFelle-1.1.7.jar"
 hash = "bbf918cec07d70a5549ece3fa15e284b17ea84df010d43e9cb1f26d987e2273e"
 
