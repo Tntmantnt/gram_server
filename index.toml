@@ -45,8 +45,9 @@ file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 
 [[files]]
-file = "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar"
-hash = "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
+file = "mods/accessories.pw.toml"
+hash = "2017362c793d95887d38b3353abb7c77f212175e82ed848296575ea0e466b7d7"
+metafile = true
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
@@ -552,8 +553,9 @@ hash = "62aaadc77869b15ca9cce5e15829492809652cd3005e02134664939b2566c95e"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
-hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
+file = "mods/owo-lib.pw.toml"
+hash = "6514f98b34602b789fc2dbcafe7a67468d1c94d74965a0142a79b7ab23628a9a"
+metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
