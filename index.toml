@@ -64,8 +64,9 @@ hash = "78f283662fe70d7710a1a39c63a9d95c685dc07bc6dbcd3eba0023831c404ef9"
 metafile = true
 
 [[files]]
-file = "mods/archers-neoforge-3.0.3+1.21.1.jar"
-hash = "9bb3bcd7e8a633f555f35952b1fdd692cf0ba41c8dcd0103b73b319e3d62a1a5"
+file = "mods/archers.pw.toml"
+hash = "4bff1e8a33a3add308656eb3a1af743204ce6469f0ee14c58ef3014cdb558f9e"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -73,8 +74,14 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
-file = "mods/arsenal-neoforge-1.4.3+1.21.1.jar"
-hash = "4bb8b24627fc8511915199c2b3c84bca640f93448cad348c01b6bdb6b6f0994b"
+file = "mods/armor-model-api.pw.toml"
+hash = "dc7bc27468879b22da06641b444e1cd9e9fedc7fd6d8942f14f29756d7c4e59a"
+metafile = true
+
+[[files]]
+file = "mods/arsenal-rpg-series.pw.toml"
+hash = "4dd0f3a3980d883254e550b4d98aa9f13dae45a8113e67565ff62786e0172c12"
+metafile = true
 
 [[files]]
 file = "mods/ashvehicle.pw.toml"
@@ -549,8 +556,9 @@ file = "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
 hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
 
 [[files]]
-file = "mods/paladins-neoforge-3.0.5+1.21.1.jar"
-hash = "1593bcabf3ff3c14a336bc0a677bbeaa0d1a249eb231d478df43bb9c6bb277fd"
+file = "mods/paladins-and-priests.pw.toml"
+hash = "a9c1ecdef94c1e535f7c5ea05e9b720778b8fd9bf0211d7d52a69bb4b6044ad1"
+metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
@@ -586,8 +594,9 @@ file = "mods/propulsed-0.1.1.jar"
 hash = "486b47aaa3bfaaddfeb56009493ba66208ec791a9d3f8a6fa571127a638a8556"
 
 [[files]]
-file = "mods/ranged_weapon_api-neoforge-2.3.3+1.21.1.jar"
-hash = "49f439f6b771aeecebeeacc1e920761ba75a8da6ce71026e18412af06ec66405"
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "0a7c847cf1bacf6b9756f348a05271c6ff57fad00d1f9d2991ea302f8453340b"
+metafile = true
 
 [[files]]
 file = "mods/refined-storage-emi-integration.pw.toml"
@@ -605,8 +614,9 @@ hash = "aaf0d7287d0b48ed96307ffa1fd8bbe7a3d6bfc837be1e6ba42c09063b988e69"
 metafile = true
 
 [[files]]
-file = "mods/relics-neoforge-1.3.0+1.21.1.jar"
-hash = "55a7f34891e88a9d5371ede19a575da5bedea5770d7be0f552cddfb50e63c879"
+file = "mods/relics-rpg.pw.toml"
+hash = "bee98f0db61db79ee173e45c940a58d1fc09f754797bdb2aee4e10e4884ebd04"
+metafile = true
 
 [[files]]
 file = "mods/remi-neoforge-1.21.1-4.2.0.jar"
@@ -626,12 +636,14 @@ file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
 hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
 
 [[files]]
-file = "mods/rogues-neoforge-3.0.4+1.21.1.jar"
-hash = "b696ad2825f2c147e5585da0d7e9f64a4e821e17b5ac13b3793599cded6cdb8a"
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "0ca4e4a6dc001eb5fb81d1817cb8b209e86cb8541a77f6e1de23d92a0e20f45c"
+metafile = true
 
 [[files]]
-file = "mods/runes-neoforge-1.2.2+1.21.1.jar"
-hash = "bbdd9ccd8622c56ba71639f28441f0e1420b4f3ad35f53ff7efbafc8a11f43e5"
+file = "mods/runes.pw.toml"
+hash = "05c5359a4419b39c0e72c2693f0cda3bc5959520fe42b348d3bd701384491aef"
+metafile = true
 
 [[files]]
 file = "mods/sable-neoforge-1.21.1-2.0.3.jar"
@@ -648,8 +660,9 @@ hash = "baf071d85a8f8e6b654a6bbdb0fc273651807a0815b0ff7fc9a9e00be40bbe6c"
 metafile = true
 
 [[files]]
-file = "mods/shield_api-neoforge-2.2.0.jar"
-hash = "adbd8facfcaf318956d670ff3f0341c0d8e15e136ae9c00749a255e25a9c0194"
+file = "mods/shield-api.pw.toml"
+hash = "08f35f067c7a764a894254a8e5c790a8de5e03f21fcff2875a14a31f16b6627a"
+metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -691,8 +704,9 @@ hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
 metafile = true
 
 [[files]]
-file = "mods/structure_pool_api-neoforge-1.2.1+1.21.1.jar"
-hash = "c18460025b07bc05fdc95bf62621c6b56f45e4eeb1c319f12787f39eb9315ea9"
+file = "mods/structure-pool-api.pw.toml"
+hash = "1e29968c1d8f6c6ff9de68ceb1f4a477fbf2ebd404ccf6ed59e8c9c2c4285d95"
+metafile = true
 
 [[files]]
 file = "mods/strut-your-stuff.pw.toml"
@@ -732,8 +746,9 @@ hash = "285c60f3bd420cc176ba890c212f26c7d1560ab78b3de8c891fe4f728b359005"
 metafile = true
 
 [[files]]
-file = "mods/wizards-neoforge-3.0.4+1.21.1.jar"
-hash = "83b4f4b739b6994556e77abe0e4832ac79762ec8762ab2e178ca459bb79e09ae"
+file = "mods/wizards.pw.toml"
+hash = "e6e7bdb68b3a0a824b3c6a19c7f4ec880555f912d6f354d67bbd4c8250922591"
+metafile = true
 
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar"
